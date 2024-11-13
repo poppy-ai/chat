@@ -1,6 +1,6 @@
 # Poppy AI
 
-![Poppy AI Logo](logo.jpg)
+![Poppy AI Logo](logo.png)
 
 Poppy AI is a multilingual, multimedia health assistant designed to provide accessible, private, and culturally-sensitive healthcare guidance to women and girls worldwide, especially in underserved communities.
 
