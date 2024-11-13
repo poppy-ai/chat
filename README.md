@@ -16,6 +16,7 @@ Poppy AI is a multilingual, multimedia health assistant designed to provide acce
 - Integrating localized data
 - Optimizing for low-bandwidth and device limitations
 - Developing a sustainable distribution model
+- Overcoming the lack of information in native languages
 
 ## Built With
 - Python
