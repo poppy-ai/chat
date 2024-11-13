@@ -36,4 +36,4 @@ Poppy AI is a multilingual, multimedia health assistant designed to provide acce
 - Enhance privacy and safety features
 - Deepen community partnerships
 - Develop advanced health guidance
-- Implement sustainable monetization
+- WhatsApp/Telegram/Messenger integration
